@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+dataset/
+dataset2/
+.ipynb_checkpoints/
+logs/
+*.h5
+*.jpg
+newhistory
+trainHistoryDict
